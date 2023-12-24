@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Tensorflow, Machine Learning Models**
 
-- 📫 How to reach me **rohithjaya2003@gmail.com,https://rohithengineer.super.site/**
+- 📫 How to reach me **rohithjaya2003@gmail.com** **https://rohithengineer.super.site/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
